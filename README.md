@@ -24,11 +24,14 @@ XCMS and related
 
 ## Java centric
 
-MzMine 2, Biotransformer
+MzMine 2, 
+
+Biotransformer ( biotransformer-1.1.5.jar on Bitbucket/djoumbou broken. Use older in archive/ here)
 
 ## C++ centric
 
-OpenMS
+OpenMS 
+[https://github.com/OpenMS/dockerfiles]
 
 
 ## based on the Jupyter Notebook Data Science Stack
