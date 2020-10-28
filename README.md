@@ -1,13 +1,13 @@
 
 # Metabolomics Docker Images
 
-This is to try to compile a deck of Dockerfiles for tools in metabolomics.
+This is to try to compile a stack of Dockerfiles for tools in metabolomics.
 
-The tools should be useful in real world applications, and the images should be as slim as possible.
+- The tools should be useful in real world applications, 
+- and the images should be as slim as possible.
+- Versions should be specified explicitly.
 
 ## Python centric
-
-Need Scipy deck. 
 
 Working on mummichog. 
 
@@ -16,17 +16,23 @@ Working on mummichog.
 Interested and suggesting: ..
 
 - suggestions? 
+- Scipy, Pandas etc as base image
 
 ## R centric
 
-XCMS and related
+XCMS, MSnbase, 
 
+CAMERA
 
 ## Java centric
 
 MzMine 2, 
 
-Biotransformer ( biotransformer-1.1.5.jar on Bitbucket/djoumbou broken. Use older in archive/ here)
+Biotransformer (biotransformer-1.1.5.jar on Bitbucket/djoumbou broken? Put biotransformer-1-0-9.jar here)
+
+MetFrag?
+
+Binner? (https://binner.med.umich.edu/)
 
 ## C++ centric
 
